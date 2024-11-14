@@ -1,0 +1,180 @@
+.br {border: 2px solid red;}
+.bb {border: 2px solid black;}
+.bd {border: 2px solid darkblue;}
+.by {border: 2px solid yellow;}
+.bg {border: 2px solid green;}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-1 {
+    height: 800px;
+    background-image: url(beach.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icons-box {
+    position: absolute;
+    right: 30px;
+    bottom: -100px;
+}
+
+.i-circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.585);
+}
+
+/* section-3 */
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box-card-1 {
+    width: 250px;
+    height: 150px;
+    border-radius: 10px;
+    background-color: rgba(211, 211, 211, 0.429);
+}
+
+.box-card-2 {
+    width: 250px;
+    height: 150px;
+    border-radius: 10px;
+    background-color: rgba(211, 211, 211, 0.429);
+}
+
+
+/*section-5*/
+
+.fifth {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-image: url(image-1.jpg);
+    background-position: center;
+}
+
+
+
+.card-item {
+    width: 300px;
+    height: 550px;
+    border: 3px solid rgba(232, 226, 226, 0.311);
+    margin: 0 10px;
+}
+
+/* section-10 */
+
+.sec-ten {
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+}
+
+/* one */
+.sec-ten-card-one {
+    background-image: url(Phuket-Thailand.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90%;
+    width: 90%;
+    border-radius: 15px;
+    object-fit: cover;
+
+}
+
+/* two */
+.sec-ten-card-two {
+    background-image: url(keling\ beach.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90%;
+    width: 90%;
+    border-radius: 15px;
+    object-fit: cover;
+
+}
+
+/* three */
+.sec-ten-card-three {
+    background-image: url(mount-bromo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90%;
+    border-radius: 15px;
+    width: 90%;
+    object-fit: cover;
+
+}
+
+/* four */
+.sec-ten-card-four {
+    background-image: url(Bagan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90%;
+    border-radius: 15px;
+    width: 90%;
+    object-fit: cover;
+
+}
+
+/* five */
+.sec-ten-card-five {
+    background-image: url(ubad.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90%;
+    border-radius: 15px;
+    width: 90%;
+    object-fit: cover;
+
+}
+
+/* six */
+.sec-ten-card-six {
+    background-image: url(marina-bay.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90%;
+    border-radius: 15px;
+    width: 90%;
+    object-fit: cover;
+
+}
+
+/* seven */
+.sec-ten-card-seven {
+    background-image: url(mount-fuji.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90%;
+    border-radius: 15px;
+    width: 90%;
+    object-fit: cover;
+
+}
+
+/* eight */
+.sec-ten-card-eight {
+    background-image: url(komodo-island.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90%;
+    border-radius: 15px;
+    width: 90%;
+    object-fit: cover;
+
+}
